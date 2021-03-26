@@ -1,0 +1,11 @@
+
+elasticsearch:
+  host: localhost
+  port: 9200
+  authentication:
+    # 0=no authentication; 1=api key authentication . . . . .
+    mode: 1
+    api-key:
+      id: VcfhZHgBOrZ190hkLwxC
+      name: sample-api-key
+      key: oQcdC8LfR2Cczlz2YrZMFA
